@@ -1,17 +1,15 @@
-import React from "react";
-import ArticleAuthor from "./ArticleAuthor";
-import ArticleBody from "./ArticleBody";
+import React from 'react';
+import ArticleAuthor from './ArticleAuthor';
+import ArticleBody from './ArticleBody';
 
 function Article(props) {
-  
-    return (
+  let { read } = props;
+  return (
     <>
-    {props.children}
-    <ArticleBody show={props.show} text={props.text} />
-    <ArticleAuthor /> 
+      {props.children}
+      <ArticleBody show={props.show} text={props.text} read={read} />
+      <ArticleAuthor />
     </>
-    );
-  }
-  export default Article;
-
-
+  );
+}
+export default Article;
