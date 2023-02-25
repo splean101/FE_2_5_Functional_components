@@ -8,7 +8,7 @@ function Article(props) {
     <>
       {props.children}
       <ArticleBody show={props.show} text={props.text} read={read} />
-      <ArticleAuthor />
+      <ArticleAuthor text={props.text}/>
     </>
   );
 }

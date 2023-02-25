@@ -1,0 +1,14 @@
+NVIDIA NEWS => НОВИНИ NVIDIA 
+NVIDIA Accelerated AI on Azure => Прискорений штучний інтелект NVIDIA в Azure
+Article description: => Опис статті:
+NVIDIA on Azure is bringing AI, networking, and high-performance computing to the enterprise. => NVIDIA на Azure надає підприємствам штучний інтелект, мережі та високопродуктивні обчислення.
+
+Microsoft Azure and NVIDIA empower enterprises in the cloud to harness the combined power of NVIDIA accelerated computing and NVIDIA networking on demand to meet the diverse computational requirements of AI, machine learning, data analytics, graphics, virtual desktop, and high-performance computing (HPC) applications. From fractional GPUs and single GPUs to multiple GPUs across multiple nodes for distributed computing, access the right-sized GPU acceleration for your workloads. => Microsoft Azure та NVIDIA дозволяють підприємствам у хмарі використовувати об\'єднану міць прискорених обчислень NVIDIA та мереж NVIDIA на запит для задоволення різноманітних обчислювальних вимог ІІ, машинного навчання, аналізу даних, графіки, віртуальних робочих столів та високопродуктивних обчислень додатків HPC. Від дрібних графічних процесорів і одиночних графічних процесорів до кількох графічних процесорів на кількох вузлах для розподілених обчислень - отримайте доступ до прискорення графічного процесора потрібного розміру для робочих навантажень.
+
+Author: Mike => Автор: Майк
+Published: 06.12.2022 => Опубліковано: 06.12.2022
+Theme: Video cards => Тема: відео карти
+Mark as read => Прочитано
+Read => Читати
+Close => Закрити
+Mark as unread => Не прочитано
